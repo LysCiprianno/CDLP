@@ -1,6 +1,6 @@
 # CDLP - Call of Duty Lys Portal
  
-Bem-vindo ao **CDLP - Call of Duty Lys Portal**, um portal interativo que apresenta aos fãs os personagens preferidos do universo de *Call of Duty: Modern Warfare*. Com um design intuitivo e envolvente, o portal permite que os usuários explorem personagens icônicos das duas facções principais do jogo: **Task Force 141** e **KorTac**.
+Bem-vindos ao **CDLP - Call of Duty Lys Portal**, um portal interativo que apresenta aos fãs os personagens preferidos do universo de *Call of Duty: Modern Warfare*. Com um design intuitivo e envolvente, o portal permite que os usuários explorem personagens icônicos das duas facções principais do jogo: **Task Force 141** e **KorTac**.
  
 ## Visão Geral do Projeto
  
